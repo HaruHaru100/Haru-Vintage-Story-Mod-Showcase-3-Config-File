@@ -20,13 +20,13 @@ Vintage Story 모드 소개 3편 영상에서 사용한 커스텀 설정 파일(
 
 2. 게임을 실행하여 월드에 접속한 후 종료합니다.
 
-3. 상단의 **Code → Download ZIP**을 눌러 압축 파일을 다운로드한 뒤 해제합니다.
+3. 깃허브 페이지 상단의 초록색 **Code → Download ZIP**을 눌러 `ModConfig-Files.zip`을 다운로드한 뒤 압축을 해제합니다.
 
 4. 키보드에서 `Win + R`을 눌러 실행 창을 열고, 아래 경로를 입력합니다.
 
    `%appdata%\VintagestoryData`
 
-5. `ModConfig` 폴더를 열고 다운로드한 설정 파일(.json)을 넣습니다.
+5. `ModConfig` 폴더를 열고 압축 해제했던 ModConfig-Files 폴더에 들어 있는 설정 파일들(.json)을 넣습니다.
 
    > `ModConfig` 폴더가 없다면 `VintagestoryData` 폴더 안에 직접 `ModConfig` 폴더를 만들어 주세요.
    >
