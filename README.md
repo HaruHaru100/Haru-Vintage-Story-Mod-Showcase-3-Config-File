@@ -77,7 +77,7 @@ Vintage Story 모드 소개 3편 영상에서 사용한 커스텀 설정 파일(
 
 **하루_Haru – Vintage Story 모드 소개 3편**
 
-[YouTube 영상 링크](https://www.youtube.com/@_Haru-Haru)
+[YouTube 영상 링크](https://youtu.be/scbvBaRIz1U)
 
 ---
 
